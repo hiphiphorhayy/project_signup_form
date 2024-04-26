@@ -1,0 +1,19 @@
+body  {
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.left_section {
+    background-image: url(images/main-qimg-1f9e906291594bc880a20c87004443a4-lq.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.right_section {
+
+}
+
